@@ -1,4 +1,5 @@
 # Hi there, I'm Saba Basiri! 👋
+![Profile views](https://komarev.com/ghpvc/?username=saba1381)
 
 ## 🚀 About Me
 - 💻 Front-end Developer & UI/UX Designer
@@ -15,6 +16,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba1381&layout=compact&hide=html,css&hide_border=true)
 
 **Tools & Technologies:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,11 +26,12 @@
 
 ## 📂 My Projects
 ### 🔹 [Banking App Redesign](#)
-Redesign and Implementation of Banking Super Application
+Redesign and Implementation of Banking Super Application at Sharif University of Technology
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saba1381&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=false)
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-basiri-161b29289/)
