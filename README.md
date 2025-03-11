@@ -16,7 +16,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba1381&layout=compact&hide=html,css&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba1381&layout=compact&exclude_repo=Bank-SuperApp&hide=python&hide_border=true)
+
+
+
 
 **Tools & Technologies:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
